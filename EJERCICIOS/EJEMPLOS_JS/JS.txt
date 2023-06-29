@@ -1,0 +1,19 @@
+JS:
+
+-Lenguaje de programación para dar interactividad a la pagina web
+
+Consola : 
+- Se utiliza para ver o depurar errores que yo tengo.
+
+Variables Hay 3 maneras:
+
+- Var
+- Let
+- Const
+
+En JS hay 9 tipos de datos.
+
+String
+Númerico
+
+* Se maneja incrustado o externo, la última es la mejor manera.
